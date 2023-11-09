@@ -101,5 +101,3 @@ These are some of the technologies and tools that I work with:
 ![Aris Kemper Github Stats](https://github-readme-stats-pi-ten-49.vercel.app/api?username=ariskemper&theme=vue&include_all_commits=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ariskemper)
-
-![Top Langs](https://github-readme-stats-pi-ten-49.vercel.app/api/top-langs/?username=ariskemper&layout=compact)
