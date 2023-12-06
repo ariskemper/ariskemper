@@ -15,7 +15,7 @@ ____
 
 <b>Collaborative Spirit:</b> Fueled by passion, I am always on the lookout for opportunities to collaborate on challenging and inspiring projects.
 
-### :fire: My Stats :
+### My Stats:
 ![Aris Kemper Github Stats](https://github-readme-stats-pi-ten-49.vercel.app/api?username=ariskemper&theme=vue&include_all_commits=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ariskemper)
